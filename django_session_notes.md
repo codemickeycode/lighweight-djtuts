@@ -27,7 +27,7 @@ PYTHON                     |         PHP
 apache                     |      
 django                     | cake, laravel, codeigniter
 gunicorn - wsgi server     | uses the mod_wsgi in apache
----------------------------------------------------------
+
 gunicorn - its like an enhanced version of a webserver, wsgi compliant
 
 nginx is good for static contents
